@@ -68,7 +68,6 @@ Keylogger auf dem Rechner des Opfers abgelegt durch eine Social Engineering Atta
 <img width="1437" alt="Bildschirmfoto 2025-07-08 um 16 07 06" src="https://github.com/user-attachments/assets/e5149fae-93e2-4872-b8a3-66ca3fa325c5" />
 Das Opfer surft ahnungslos im Internet und führt beispielweise eine Überweisung durch.
 
-
-<img width="1384" alt="Bildschirmfoto 2025-07-08 um 16 02 07" src="https://github.com/user-attachments/assets/db64f816-67b4-434f-a87c-1a9063a0e2a1" />
+<img width="1384" alt="Bildschirmfoto 2025-07-08 um 16 02 07" src="https://github.com/user-attachments/assets/abeb0402-3de4-457b-9865-2274d56d1348" />
 E-Mail die die aufgenommenen Keystrokes an uns sendet.
 
