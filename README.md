@@ -52,3 +52,12 @@ Ziel ist es, den Keylogger beim Systemstart automatisch ausführen zu lassen –
 
 ## 📷 Ergebnis
 (Hier kannst du 2–3 Screenshots einfügen, um das Endergebnis zu zeigen – z. B. die generierte .exe, den gesendeten E-Mail-Log oder die Funktionsweise im Hintergrund.)
+
+
+
+<img width="1440" alt="Bildschirmfoto 2025-07-08 um 15 43 31" src="https://github.com/user-attachments/assets/739cb39d-e83f-497b-baa5-4278a6ef0406" />
+Keylogger auf dem Rechner des Opfers abgelegt
+
+
+E-Mail die die aufgenommenen Keystrokes an uns sendet.
+
