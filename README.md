@@ -47,8 +47,16 @@ Jetzt kommt der eigentliche Code und die Erstellung der ausführbaren Datei:
 
 
 ## ♻️ 4. Automatischer Start beim Systemstart (Persistenz)
-Dieser Teil wird noch entwickelt.
-Ziel ist es, den Keylogger beim Systemstart automatisch ausführen zu lassen – z. B. durch einen Eintrag in die Windows-Registry oder im Autostart-Ordner.
+Keylogger persistent machen (Autostart einrichten)
+
+- Die bereits auf dem Zielgerät platzierte .exe-Datei (Keylogger) vorbereiten
+- Windows-Taste + R drücken, um den Ausführen-Dialog zu öffnen
+- Folgenden Befehl eingeben und mit Enter bestätigen:
+
+shell:startup
+
+- Im geöffneten Autostart-Ordner eine Verknüpfung zur Keylogger-Datei einfügen
+- Ergebnis: Bei jedem Systemstart wird der Keylogger automatisch ausgeführt
 
 ## 📷 Ergebnis
 
