@@ -51,13 +51,16 @@ Dieser Teil wird noch entwickelt.
 Ziel ist es, den Keylogger beim Systemstart automatisch ausführen zu lassen – z. B. durch einen Eintrag in die Windows-Registry oder im Autostart-Ordner.
 
 ## 📷 Ergebnis
-(Hier kannst du 2–3 Screenshots einfügen, um das Endergebnis zu zeigen – z. B. die generierte .exe, den gesendeten E-Mail-Log oder die Funktionsweise im Hintergrund.)
-
 
 
 <img width="1440" alt="Bildschirmfoto 2025-07-08 um 15 43 31" src="https://github.com/user-attachments/assets/739cb39d-e83f-497b-baa5-4278a6ef0406" />
-Keylogger auf dem Rechner des Opfers abgelegt
+Keylogger auf dem Rechner des Opfers abgelegt durch eine Social Engineering Attacke.
 
 
+<img width="1437" alt="Bildschirmfoto 2025-07-08 um 16 07 06" src="https://github.com/user-attachments/assets/e5149fae-93e2-4872-b8a3-66ca3fa325c5" />
+Das Opfer surft ahnungslos im Internet und führt beispielweise eine Überweisung durch.
+
+
+<img width="1384" alt="Bildschirmfoto 2025-07-08 um 16 02 07" src="https://github.com/user-attachments/assets/db64f816-67b4-434f-a87c-1a9063a0e2a1" />
 E-Mail die die aufgenommenen Keystrokes an uns sendet.
 
